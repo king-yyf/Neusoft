@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>back.png</file>
+        <file>btn.png</file>
+        <file>pure.png</file>
+        <file>user-red.png</file>
+        <file>1128166.png</file>
+        <file>bgframe.png</file>
+        <file>mainbg.jpg</file>
+        <file>input.png</file>
+        <file>dish2.png</file>
+        <file>dish3.png</file>
+        <file>dish4.png</file>
+        <file>dish5.png</file>
+        <file>dish6.jpg</file>
+        <file>dish7.jpg</file>
+        <file>dish8.jpg</file>
+        <file>quit.png</file>
+        <file>close.png</file>
+        <file>busy.png</file>
+        <file>free.png</file>
+        <file>label.png</file>
+        <file>go.png</file>
+        <file>bgwaiter.jpg</file>
+        <file>fresh.png</file>
+        <file>71.png</file>
+        <file>72.png</file>
+        <file>dish1.png</file>
+        <file>12.png</file>
+        <file>show.png</file>
+    </qresource>
+</RCC>
